@@ -1,2 +1,11 @@
 # Machine-Learning-Project
-Developed a machine learning system to predict electrical load demand using historical data. Preprocessed data, and implemented models like Bagging and Boosting Trees, Decision Trees, SVM, and Neural Networks. Optimized accuracy with metrics like MAE and MAPE, enabling efficient power management.
+Project Details: Load Forecasting Using Machine Learning Algorithms
+The project involved developing a robust system for accurately forecasting electrical load demand. Load forecasting is critical for optimizing power generation, distribution, and operational efficiency in power systems. The project focused on analyzing historical load data, integrating weather variables, and applying advanced machine learning algorithms like linear regression, decision trees, and neural networks to predict short-term and medium-term load demands. Model performance was evaluated using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
+
+My Role-
+I was actively involved in the project as a team member responsible for:
+Data Collection: The dataset used for this load demand forecasting project was sourced from the Western Regional Load Dispatch Centre (WRLDC), accessible through the official website www.wrldc.in. This dataset contains detailed load demand data for the years 2022 and 2023.
+Data Preprocessing: Cleaning and organizing raw data to ensure consistency and reliability.
+Model Development: Implementing and training machine learning models and optimizing hyperparameters for enhanced prediction accuracy.
+Performance Evaluation: Conducting detailed model performance analysis and presenting findings using visualizations and dashboards.
+My contributions significantly enhanced the predictive accuracy of the model, providing actionable insights for efficient load management in power systems.
