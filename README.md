@@ -1,6 +1,6 @@
 # Machine-Learning-Project
 Project Details: Load Forecasting Using Machine Learning Algorithms
-The project involved developing a robust system for accurately forecasting electrical load demand. Load forecasting is critical for optimizing power generation, distribution, and operational efficiency in power systems. The project focused on analyzing historical load data, integrating weather variables, and applying advanced machine learning algorithms like linear regression, decision trees, and neural networks to predict short-term and medium-term load demands. Model performance was evaluated using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).
+The project involved developing a robust system for accurately forecasting electrical load demand. Load forecasting is critical for optimizing power generation, distribution, and operational efficiency in power systems. The project focused on analyzing historical load data, integrating weather variables, and applying advanced machine learning algorithms like linear regression, decision trees, and neural networks to predict short-term and medium-term load demands. Model performance was evaluated using metrics like Mean Absolute Error (MAE) , Mean Absolute Percentage Error (MAPE) and Root Mean Square Error (RMSE).
 
 My Role-
 I was actively involved in the project as a team member responsible for:
