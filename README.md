@@ -14,3 +14,6 @@ Model Development: Implementing and training machine learning models and optimiz
 Performance Evaluation: Conducting detailed model performance analysis and presenting findings using visualizations and dashboards.
 
 My contributions significantly enhanced the predictive accuracy of the model, providing actionable insights for efficient load management in power systems.
+
+
+Link to My Project-- https://drive.google.com/file/d/1D4Duv0KT0dW2CGZezBJ4KfBdeEB0acjf/view?usp=sharing
